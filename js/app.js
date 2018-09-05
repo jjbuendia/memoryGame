@@ -25,6 +25,19 @@ function shuffle(array) {
     return array;
 }
 
+const deck = document.querySelectorAll('.deck');
+console.log(deck);
+
+document.querySelectorAll('.deck');
+console.log(deck);
+
+deck.addEventListener('click', function () {
+	deck.forEach(function(card) {
+		
+
+	})
+
+
 
 /*
  * set up the event listener for a card. If a card is clicked:
@@ -37,10 +50,3 @@ function shuffle(array) {
  *    + if all cards have matched, display a message with the final score (put this functionality in another function that you call from this one)
  */
 
-var allCards = document.querySelectorAll('.card');
-
-allCards.forEach(function(card){
-	card.addEventListener('click', function(1) {
-		console.log(1);
-	});
-});
