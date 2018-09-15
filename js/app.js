@@ -25,20 +25,39 @@ function shuffle(array) {
     return array;
 }
 
+const cards = document.querySelectorAll('.card');
+
 const deck = document.querySelectorAll('.deck');
 console.log(deck);
 
-document.querySelectorAll('.deck');
-console.log(deck);
+const deckArray = '.deck'
 
-deck.addEventListener('click', function () {
-	deck.forEach(function(card) {
-		
+const cardMatch = [];
 
-	})
+const cardMisMatch = [];
+
+const allCards = [];
+
+const gameReset = document.
+
+const movesCount = 
 
 
 
+//function to add event listener to click on cards//
+deck.addEventListener('click', function(event) {
+	for(i = 0; i< deck.length; i++);
+		if(event === i && move => 0 && < 10 && //conditional for stars//timer?//any other conditions to add//){
+		 card.
+			// body...
+		}
+	//what's the return value I want?- the added listene
+return i
+
+function flipCard(event) {
+	
+	}
+}
 /*
  * set up the event listener for a card. If a card is clicked:
  *  - display the card's symbol (put this functionality in another function that you call from this one)
