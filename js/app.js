@@ -25,47 +25,51 @@ function shuffle(array) {
     return array;
 }
 
-const cards = document.querySelectorAll('.card');
+var cards = document.querySelectorAll('.card');
 
-const deck = document.querySelectorAll('.deck');
-console.log(deck);
+// const deck = document.querySelectorAll('.deck');
+// console.log(deck);
 
-const deckArray = '.deck'
+// const deckArray = '.deck'
 
-const cardMatch = [];
+// const cardMatch = [];
 
-const cardMisMatch = [];
+let showCard = [];//
 
-const allCards = [];
+// const cardMisMatch = [];
 
-const gameReset = document.
+// const allCards = [];
 
-const movesCount = 
+// const gameReset = document.
+
+const movesCount = document.querySelectorAll('.moves')
+
 
 
 
 //function to add event listener to click on cards//
-deck.addEventListener('click', function(event) {
-	for(i = 0; i< deck.length; i++);
-		if(event === i && move => 0 && < 10 && //conditional for stars//timer?//any other conditions to add//){
-		 card.
-			// body...
-		}
-	//what's the return value I want?- the added listene
-return i
+cards.forEach(function(card) {
+    card.addEventListener('click', function(clickEvent) {
+  card.classList.add('open', 'show');//need to add function that allows only two cards to be flipped at a time-toggle
+  });
+});
+// function showCard(clickEvent) {
+//   if(card.classList.contains('.card) && showCard.length <2 && showCard {
+// clickEvent.classList.toggle('open');
+// clickEvent.classList.toggle('show');
 
-function flipCard(event) {
-	
-	}
-}
-/*
- * set up the event listener for a card. If a card is clicked:
- *  - display the card's symbol (put this functionality in another function that you call from this one)
- *  - add the card to a *list* of "open" cards (put this functionality in another function that you call from this one)
- *  - if the list already has another card, check to see if the two cards match
- *    + if the cards do match, lock the cards in the open position (put this functionality in another function that you call from this one)
- *    + if the cards do not match, remove the cards from the list and hide the card's symbol (put this functionality in another function that you call from this one)
- *    + increment the move counter and display it on the page (put this functionality in another function that you call from this one)
- *    + if all cards have matched, display a message with the final score (put this functionality in another function that you call from this one)
- */
+//   
+// function pushClickEvent(clickEvent) {
+// showCard.push(clickEvent);
+//  if(showCard.length === 2) {
+ 
+//  * set up the event listener for a card. If a card is clicked:
+//  *  - display the card's symbol (put this functionality in another function that you call from this one)
+//  *  - add the card to a *list* of "open" cards (put this functionality in another function that you call from this one)
+//  *  - if the list already has another card, check to see if the two cards match
+//  *    + if the cards do match, lock the cards in the open position (put this functionality in another function that you call from this one)
+//  *    + if the cards do not match, remove the cards from the list and hide the card's symbol (put this functionality in another function that you call from this one)
+//  *    + increment the move counter and display it on the page (put this functionality in another function that you call from this one)
+//  *    + if all cards have matched, display a message with the final score (put this functionality in another function that you call from this one)
+//  *//
 

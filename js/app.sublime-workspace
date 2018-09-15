@@ -1,0 +1,363 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"i"
+			],
+			[
+				"space",
+				"space-between\tjustify-content"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"felx",
+				"flex-direction\tproperty"
+			],
+			[
+				"s",
+				"flex-start\tjustify-content"
+			],
+			[
+				"space-",
+				"space-around\tjustify-content"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"cont",
+				"align-content\tproperty"
+			],
+			[
+				"fle",
+				"flex-shrink\tproperty"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"fl",
+				"flex-flow\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"padding-",
+				"padding-bottom\tproperty"
+			],
+			[
+				"border",
+				"border-width\tproperty"
+			],
+			[
+				"border-",
+				"border-color\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"alg",
+				"align-content\tproperty"
+			],
+			[
+				"bl",
+				"bolder\tfont-weight"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"b",
+				"border\tproperty"
+			],
+			[
+				"al",
+				"text-align\tproperty"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"bor",
+				"border-bottom\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"backgrou",
+				"background-color\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"mi-",
+				"min-height"
+			],
+			[
+				"border-bottom",
+				"border-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Jesse3rry/.floorc.json",
+		"/C/Users/Jesse3rry/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Jesse3rry/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Jesse3rry/Desktop/Udacity.Phase2/Lesson_23_memoryProject/fend-project-memory-game-master/css/app.css",
+		"/C/Users/Jesse3rry/Desktop/Udacity.Phase2/Lesson_23_memoryProject/fend-project-memory-game-master/README.md",
+		"/C/Users/Jesse3rry/Desktop/Udacity.Phase2/Lesson 23_memoryProject/fend-project-memory-game-master/README.md",
+		"/C/Users/Jesse3rry/Desktop/Udacity.Phase2/Lesson 19_TheDom/course-JS-and-the-DOM-master/app.js",
+		"/C/Users/Jesse3rry/Desktop/Github/course-collaboration-travel-plans/index.html",
+		"/C/Users/Jesse3rry/Desktop/Github/course-collaboration-travel-plans/css/app.css",
+		"/C/Users/Jesse3rry/Desktop/Github/my-travel-plans/app.css",
+		"/C/Users/Jesse3rry/Desktop/Github/my-travel-plans/README.md",
+		"/C/Users/Jesse3rry/Desktop/Github/my-travel-plans/index.html",
+		"/C/Users/Jesse3rry/Desktop/Github/new-git-project/index.html",
+		"/C/Users/Jesse3rry/Desktop/Github/new-git-project/css/app.css",
+		"/C/Users/Jesse3rry/Desktop/Github/new-git-project/js/app.js",
+		"/C/Users/Jesse3rry/Desktop/Github/new-git-project/.git/.gitignore",
+		"/C/Users/Jesse3rry/Desktop/Github/new-git-project/.git/logs/HEAD",
+		"/C/Users/Jesse3rry/Desktop/Github/new-git-project/stylesheet.css",
+		"/C/Users/Jesse3rry/Desktop/Github/course-git-blog-project/index.html",
+		"/C/Users/Jesse3rry/.bash_profile",
+		"/C/Users/Jesse3rry/Desktop/Udacity.Phase2/Portfolio 1/Portfolio Project (2)/New folder/Portfolio Project/styles.css/styles.css",
+		"/C/Users/Jesse3rry/Desktop/Udacity.Phase2/Portfolio 1/Portfolio Project (2)/New folder/Portfolio Project/index2.html",
+		"/C/Users/Jesse3rry/Desktop/Udacity.Phase2/Portfolio 1/Portfolio Project (2)/Portfolio Project_rough/styles.css/styles.css",
+		"/C/Users/Jesse3rry/Desktop/Udacity.Phase2/Portfolio 1/Portfolio Project (2)/Portfolio Project_rough/index2.html",
+		"/C/Users/Jesse3rry/Desktop/Portfolio Project (2)/Portfolio Project/styles.css/styles.css",
+		"/C/Users/Jesse3rry/Desktop/Portfolio Project (2)/Portfolio Project/index2.html",
+		"/C/Users/Jesse3rry/Desktop/Udacity.Phase2/Portfolio Project/styles.css/styles.css",
+		"/C/Users/Jesse3rry/Desktop/Udacity.Phase2/Portfolio Project/index2.html",
+		"/C/Users/Jesse3rry/Desktop/Udacity.Phase2/Portfolio Project/Images/project1-image.jpg",
+		"/C/Users/Jesse3rry/Desktop/Udacity.Phase2/Animal_TradingCard/styles.css",
+		"/C/Users/Jesse3rry/Desktop/Udacity.Phase2/Animal_TradingCard/index.html",
+		"/C/Users/Jesse3rry/Desktop/Udacity.Phase2/Portfolio Project/index.html",
+		"/C/Users/Jesse3rry/Desktop/Udacity.Phase2/Portfolio Project/Images/tradingCard.jpg",
+		"/C/Users/Jesse3rry/Desktop/Udacity.Phase2/Portfolio Project/Images/jquery.jpg",
+		"/C/Users/Jesse3rry/Desktop/CSS_Resume/css-resume-final/css-resume-final/index.html",
+		"/C/Users/Jesse3rry/Desktop/Udacity.Phase2/Lesson14/Project_update/main.css",
+		"/C/Users/Jesse3rry/Desktop/Udacity.Phase2/Lesson14/Project_update/index.html",
+		"/C/Users/Jesse3rry/Desktop/Udacity.Phase2/Lesson 15/Start/main.css",
+		"/C/Users/Jesse3rry/Desktop/Udacity.Phase2/Lesson 15/Start/responsive.css",
+		"/C/Users/Jesse3rry/Desktop/Udacity.Phase2/Lesson 15/Start/index.html",
+		"/C/Users/Jesse3rry/Desktop/Udacity.Phase2/Lesson14/Pattern_mostly_fluid_Quiz/pattern-mostly-fluid-quiz-blankcss.html",
+		"/C/Users/Jesse3rry/Desktop/Udacity.Phase2/Lesson14/Solution/responsive.css",
+		"/C/Users/Jesse3rry/Desktop/Udacity.Phase2/Lesson13/Lesson13.1Quiz.html",
+		"/C/Users/Jesse3rry/Desktop/Udacity.Phase2/Lesson14/pattern-mostly-fluid-quiz-blankcss.html",
+		"/C/Users/Jesse3rry/Desktop/Udacity.Phase2/Lesson_12_Project.Part1/Project/Start/main.css",
+		"/C/Users/Jesse3rry/Desktop/Udacity.Phase2/Lesson_12_Project.Part1/Project/Start/index.html",
+		"/C/Users/Jesse3rry/Desktop/Udacity/pixelMaker/project-pixel-art-maker-starter-master/styles.css",
+		"/C/Users/Jesse3rry/Desktop/Udacity/Trading_Cards/card.html",
+		"/C/Users/Jesse3rry/Desktop/Udacity/link-to-a-stylesheet/index.html",
+		"/C/Users/Jesse3rry/Desktop/Udacity/pixelMaker/project-pixel-art-maker-starter-master/designs.js",
+		"/C/Users/Jesse3rry/Desktop/Udacity/pixelMaker/project-pixel-art-maker-starter-master/index.html",
+		"/C/Users/Jesse3rry/Desktop/Udacity/New Folder/Functions/jQuery Sample Site/index.html",
+		"/C/Users/Jesse3rry/Desktop/Udacity/link-to-a-stylesheet/css/styles.css",
+		"/C/Users/Jesse3rry/Desktop/Udacity/Quizzes/Quiz_foodChain.js",
+		"/C/Users/Jesse3rry/Desktop/Udacity/Quizzes/Quiz_wear.js"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 136.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
